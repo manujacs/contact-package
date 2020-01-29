@@ -1,0 +1,19 @@
+{
+    "name": "mdbs/contact",
+    "description": "This is email configuration package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "manuja shekar",
+            "email": "manuja@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Package\\Contact\\": "src/"
+        }
+    },
+}
