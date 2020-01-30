@@ -1,6 +1,6 @@
 {
     "name": "mdbs/contact",
-    "description": "This is email configuration package",
+    "description": "This is email configuration package for the admin panel",
     "type": "library",
     "license": "MIT",
     "authors": [
